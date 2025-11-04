@@ -21,7 +21,7 @@ export default function About() {
                 <p className='words-text'>All You Need is Fun!</p>
                 <h1>Introducing ToyStore</h1>
                 <p>A successful marketing plan relies heavily on the pulling-power of advertising copy. Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take action.</p>
-                <a href="#More-About" class="link">More About Us</a>
+                <a href="#" class="link">More About Us</a>
                
             </div>
             <div className='imgs'>

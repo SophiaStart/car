@@ -35,7 +35,7 @@ export default function Banner() {
             <div className="nav-top-left">
               <span>Call Us: +1 213 974-5898</span>
               <span>
-                Email: <a href="">toystore@template.com</a>
+                Email: <a href="#">toystore@template.com</a>
               </span>
             </div>
             <div className="nav-top-right">
