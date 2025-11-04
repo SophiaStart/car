@@ -37,6 +37,7 @@ const cartSlice = createSlice({
         const item = state.cart.find(item => item.id === action.payload.id);
         if (item) {
           item.quantity = Math.max(1, quantity); // 确保数量不小于1
+          console.log(id);
         }
     }
   }
